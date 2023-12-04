@@ -20,7 +20,7 @@ Still trying to figure out how to stream add-on peds? You can use this folder an
 
 3. Dalmation
 
-Thank you to JuneBugs from GTA 5 mods for permitting me to use this model in this collection and Reddeer on SketchFab for providing the model with a CC license.
+Thank you to JuneBugs from GTA 5 mods for permitting me to use this model in this collection and [Reddeer](https://sketchfab.com/billl90) on SketchFab for providing the model with a CC license.
 
 JuneBug's Creator Discord [here](discord.gg/bugsmods)
 
