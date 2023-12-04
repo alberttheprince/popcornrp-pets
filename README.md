@@ -18,6 +18,15 @@ Still trying to figure out how to stream add-on peds? You can use this folder an
 
 ![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/334daae4-06e8-4c0f-bbdb-700c05cc9f65)
 
+3. Dalmation
+
+- Thank you to JuneBugs from GTA 5 mods for permitting me to use this model in this collection and Reddeer on SketchFab for providing the model with a CC license.
+
+JuneBug's Creator Discord [here](discord.gg/bugsmods)
+You can find the original GTA 5 Mods post [here](https://www.gta5-mods.com/player/dalmatian-ped-add-on-replace)
+
+![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/85a8fada-987e-42ec-bff5-1d3acfc84476)
+
 
 # How do I add a pet to keep-companion?
 
