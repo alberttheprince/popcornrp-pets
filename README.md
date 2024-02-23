@@ -11,14 +11,14 @@ Still trying to figure out how to stream add-on peds? You can use this folder an
 
 # Current List of included animal peds:
 
-1. Chow Chow
+## 1. Chow Chow
 ![image](https://github.com/alberttheprince/popcornrp-pets/assets/85725579/208f06c4-2801-4611-938f-a5c9c87581bf)
 
-2. Doberman
+## 2. Doberman
 
 ![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/334daae4-06e8-4c0f-bbdb-700c05cc9f65)
 
-3. Dalmation
+## 3. Dalmation
 
 Thank you to JuneBugs from GTA 5 mods for permitting me to use this model in this collection and [Reddeer](https://sketchfab.com/billl90) on SketchFab for providing the model with a CC license.
 
@@ -28,6 +28,11 @@ You can find the original GTA 5 Mods post [here](https://www.gta5-mods.com/playe
 
 ![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/85a8fada-987e-42ec-bff5-1d3acfc84476)
 
+## 4. German Shepherd / Malinois - K9 Dog 
+
+Originally shared by martinct on [https://www.lcpdfr.com/](https://www.lcpdfr.com/downloads/gta5mods/character/19996-german-shepherd-malinois-k9-dog/)
+
+![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/646cc193-8180-434f-a61b-58458cb900de)
 
 # How do I add a pet to keep-companion?
 
