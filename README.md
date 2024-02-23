@@ -30,7 +30,7 @@ You can find the original GTA 5 Mods post [here](https://www.gta5-mods.com/playe
 
 ## 4. German Shepherd / Malinois - K9 Dog 
 
-Originally shared by martinct on [https://www.lcpdfr.com/](https://www.lcpdfr.com/downloads/gta5mods/character/19996-german-shepherd-malinois-k9-dog/)
+Converted to be an addon ped, originally shared by martinct on [https://www.lcpdfr.com/](https://www.lcpdfr.com/downloads/gta5mods/character/19996-german-shepherd-malinois-k9-dog/)
 
 ![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/646cc193-8180-434f-a61b-58458cb900de)
 
