@@ -1,4 +1,4 @@
-# popcornrppets
+# popcornrp-pets
 A collection of free-to-use add-on pets and other other animals! Goes great with keep-companion!
 
 I recommend you use these add-on peds with: [keep-companion-ox](https://github.com/alberttheprince/keep-companion-ox)
