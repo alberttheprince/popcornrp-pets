@@ -20,7 +20,9 @@ Still trying to figure out how to stream add-on peds? You can use this folder an
 
 ## 3. Dalmation
 
-Thank you to JuneBugs from GTA 5 mods for permitting me to use this model in this collection and [Reddeer](https://sketchfab.com/billl90) on SketchFab for providing the model with a CC license.
+Thank you to JuneBug from GTA 5 mods for permitting me to use this model in this collection and [Reddeer](https://sketchfab.com/billl90) on SketchFab for providing the model with a CC license.
+
+JuneBug's Tebex [here](https://bugs-basement.tebex.io/)
 
 JuneBug's Creator Discord [here](discord.gg/bugsmods)
 
@@ -28,7 +30,18 @@ You can find the original GTA 5 Mods post [here](https://www.gta5-mods.com/playe
 
 ![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/85a8fada-987e-42ec-bff5-1d3acfc84476)
 
-## 4. German Shepherd / Malinois - K9 Dog 
+## 4. Male and Female K9 - Accessories and clothing
+
+Thank you to Junebug for their custom work and contribution of new male and female K9 police dogs and dozens of new clothing items, including goggles, scarfs, badges, and so much more!
+
+JuneBug's Tebex [here](https://bugs-basement.tebex.io/)
+
+JuneBug's Creator Discord [here](discord.gg/bugsmods)
+
+![image](https://github.com/user-attachments/assets/96b1829f-10f0-455e-bcbb-49635d126f01)
+
+
+## 5. German Shepherd / Malinois - K9 Dog 
 
 Converted to be an addon ped, originally shared by martinct on [https://www.lcpdfr.com/](https://www.lcpdfr.com/downloads/gta5mods/character/19996-german-shepherd-malinois-k9-dog/)
 
