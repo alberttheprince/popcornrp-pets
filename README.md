@@ -14,7 +14,7 @@ Still trying to figure out how to stream add-on peds? You can use this folder an
 ## 1. Chow Chow
 ![image](https://github.com/alberttheprince/popcornrp-pets/assets/85725579/208f06c4-2801-4611-938f-a5c9c87581bf)
 
-## 2. Doberman
+## 2. Dobermann
 
 ![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/334daae4-06e8-4c0f-bbdb-700c05cc9f65)
 
