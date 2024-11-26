@@ -12,9 +12,18 @@ Still trying to figure out how to stream add-on peds? You can use this folder an
 # Current List of included animal peds:
 
 ## 1. Chow Chow
+
+Created by and for the Popcorn RP community and released to the FiveM community to use! 
+
+Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
+
 ![image](https://github.com/alberttheprince/popcornrp-pets/assets/85725579/208f06c4-2801-4611-938f-a5c9c87581bf)
 
 ## 2. Dobermann
+
+Created by and for the Popcorn RP community and released to the FiveM community to use! 
+
+Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
 
 ![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/334daae4-06e8-4c0f-bbdb-700c05cc9f65)
 
