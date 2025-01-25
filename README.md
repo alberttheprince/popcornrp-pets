@@ -5,7 +5,7 @@ I recommend you use these add-on peds with: [keep-companion-ox](https://github.c
 
 Please donate to the creator of keep-companion, whose resource has been a fun tool for our RP server! [here](https://ko-fi.com/swkeep)
 
-Add this to your server files and server cofig and ensure it, or move the subfolders to your streamed peds folder. 
+Add this to your server files and server config and ensure it, or move the subfolders to your streamed peds folder. 
 
 Still trying to figure out how to stream add-on peds? You can use this folder and fxmanifest.lua file to do so! Just follow the example with the chow chow/other peds added here. 
 
