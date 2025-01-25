@@ -66,4 +66,5 @@ Created by and for the Popcorn RP community and released to the FiveM community 
 
 Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
 
-Image soon
+![image](https://github.com/user-attachments/assets/6b7b396c-5085-415a-a5f4-3e4223e1bfc6)
+
