@@ -56,10 +56,6 @@ Converted to be an addon ped, originally shared by martinct on [https://www.lcpd
 
 ![image](https://github.com/alberttheprince/popcornrppets/assets/85725579/646cc193-8180-434f-a61b-58458cb900de)
 
-# How do I add a pet to keep-companion?
-
-Please check the readme for keep-companion. You are on your own with adding these as pets. It's easy if you take the time to look through the resource files.
-
 ## 6. Armadillo
 
 Created by and for the Popcorn RP community and released to the FiveM community to use! 
@@ -68,3 +64,6 @@ Please support our work by checking out our premium pet models [here](https://po
 
 ![image](https://github.com/user-attachments/assets/6b7b396c-5085-415a-a5f4-3e4223e1bfc6)
 
+# How do I add a pet to keep-companion?
+
+Please check the readme for keep-companion. You are on your own with adding these as pets. It's easy if you take the time to look through the resource files.
