@@ -60,9 +60,21 @@ Converted to be an addon ped, originally shared by martinct on [https://www.lcpd
 
 Created by and for the Popcorn RP community and released to the FiveM community to use! 
 
+![image](https://github.com/user-attachments/assets/6b7b396c-5085-415a-a5f4-3e4223e1bfc6)
+
+## 7. Tarantula (Monster size)
+
+
+
+Darling! That giant tarantula is eating our neighbour, Mrs. McDonald, and her prize-winning pumpkin pie. Oh, the humanity! What will the Johnsons think of us?!
+
+[Model](https://sketchfab.com/3d-models/tarantula-6890f5b34af947f4b416a23cbd4e56c0) originally made by Alexander.Treiner and used under CC attribution
+
+![image](https://github.com/user-attachments/assets/964e8a77-59b0-4844-bbf2-735d3bf148b4)
+
 Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
 
-![image](https://github.com/user-attachments/assets/6b7b396c-5085-415a-a5f4-3e4223e1bfc6)
+
 
 # How do I add a pet to keep-companion?
 
