@@ -72,7 +72,6 @@ Darling! That giant tarantula is eating our neighbour, Mrs. McDonald, and her pr
 
 ![image](https://github.com/user-attachments/assets/964e8a77-59b0-4844-bbf2-735d3bf148b4)
 
-Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
 
 ## 7. Robot Dog
 
