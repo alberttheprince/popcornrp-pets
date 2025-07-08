@@ -74,6 +74,19 @@ Darling! That giant tarantula is eating our neighbour, Mrs. McDonald, and her pr
 
 Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
 
+## 7. Robot Dog
+
+
+
+Bark Bark err Beep boop, this G00D B01 is fully charged, dependable, and ready to be sent into the center of an active reactor next time things aren't so interesting at the job site!
+
+[Model was originally made by C. Yamahata and used under CC Attribution](https://sketchfab.com/3d-models/robot-dog-unitree-go1-926627f69b194b6da4fbf8a31df49303)
+
+![robotdog](https://github.com/user-attachments/assets/8acc762f-22ac-447f-9cd5-fe998e23ec59)
+
+Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
+
+
 
 
 # How do I add a pet to keep-companion?
