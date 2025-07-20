@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPedModelInfo__InitDataList>
+  <InitDatas>
+<Item>
+ <Name>cockroach</Name>
+      <PropsName>null</PropsName>
+      <ClipDictionaryName>CREATURES@BOAR@MOVE</ClipDictionaryName>
+      <BlendShapeFileName>null</BlendShapeFileName>
+      <ExpressionSetName/>
+      <ExpressionDictionaryName>A_C_Boar</ExpressionDictionaryName>
+      <ExpressionName>A_C_Boar</ExpressionName>
+      <Pedtype>Animal</Pedtype>
+      <MovementClipSet>BOAR</MovementClipSet>
+      <MovementClipSets/>
+      <StrafeClipSet>MOVE_PED_STRAFING</StrafeClipSet>
+      <MovementToStrafeClipSet>MOVE_PED_TO_STRAFE</MovementToStrafeClipSet>
+      <InjuredStrafeClipSet>MOVE_STRAFE_INJURED</InjuredStrafeClipSet>
+      <FullBodyDamageClipSet>DAM_KO</FullBodyDamageClipSet>
+      <AdditiveDamageClipSet>DAM_AD</AdditiveDamageClipSet>
+      <DefaultGestureClipSet>ANIM_GROUP_GESTURE_M_GENERIC</DefaultGestureClipSet>
+      <FacialClipsetGroupName>facial_clipset_group_gen_male</FacialClipsetGroupName>
+      <DefaultVisemeClipSet>ANIM_GROUP_VISEMES_M_LO</DefaultVisemeClipSet>
+      <SidestepClipSet>CLIP_SET_ID_INVALID</SidestepClipSet>
+      <PoseMatcherName>BOAR</PoseMatcherName>
+      <PoseMatcherProneName>null</PoseMatcherProneName>
+      <GetupSetHash>NMBS_BOAR_GETUPS</GetupSetHash>
+      <CreatureMetadataName>null</CreatureMetadataName>
+      <DecisionMakerName>WildAnimal</DecisionMakerName>
+      <MotionTaskDataSetName>BOAR</MotionTaskDataSetName>
+      <DefaultTaskDataSetName>Animal</DefaultTaskDataSetName>
+      <PedCapsuleName>BOAR</PedCapsuleName>
+      <PedLayoutName/>
+      <PedComponentSetName/>
+      <PedComponentClothName/>
+      <PedIKSettingsName>NO_IK</PedIKSettingsName>
+      <TaskDataName>Animal</TaskDataName>
+      <IsStreamedGfx value="false"/>
+      <AmbulanceShouldRespondTo value="false"/>
+      <CanRideBikeWithNoHelmet value="false"/>
+      <CanSpawnInCar value="true"/>
+      <IsHeadBlendPed value="false"/>
+      <bOnlyBulkyItemVariations value="false"/>
+      <RelationshipGroup>WILD_ANIMAL</RelationshipGroup>
+      <NavCapabilitiesName>WILD_ANIMAL</NavCapabilitiesName>
+      <PerceptionInfo>DEFAULT_PERCEPTION</PerceptionInfo>
+      <DefaultBrawlingStyle>BS_BOAR</DefaultBrawlingStyle>
+      <DefaultUnarmedWeapon>WEAPON_BOAR</DefaultUnarmedWeapon>
+      <Personality>BOAR</Personality>
+      <CombatInfo>SCARED_ANIMAL</CombatInfo>
+      <VfxInfoName>VFXPEDINFO_PIG_GENERIC</VfxInfoName>
+      <AmbientClipsForFlee>FLEE</AmbientClipsForFlee>
+      <Radio1>RADIO_GENRE_PUNK</Radio1>
+      <Radio2>RADIO_GENRE_JAZZ</Radio2>
+      <FUpOffset value="0.00000000"/>
+      <RUpOffset value="0.00000000"/>
+      <FFrontOffset value="0.00000000"/>
+      <RFrontOffset value="0.14700000"/>
+      <MinActivationImpulse value="20.00000000"/>
+      <Stubble value="0.00000000"/>
+      <HDDist value="6.00000000"/>
+      <TargetingThreatModifier value="1.00000000"/>
+      <KilledPerceptionRangeModifer value="-1.00000000"/>
+      <Sexiness/>
+      <Age value="0"/>
+      <MaxPassengersInCar value="0"/>
+      <ExternallyDrivenDOFs/>
+      <PedVoiceGroup>MALE_BRAVE_PVG</PedVoiceGroup>
+      <!-- This uses the boar audio, which vageuly fits a giant creepy bug sound. If you'd like, delete the uncommented audio object line and uncomment the one below for no boar audio -->
+      <!-- <AnimalAudioObject/> -->
+      <AnimalAudioObject>ANIMAL_PARAMS_BOAR</AnimalAudioObject>
+      <AbilityType>SAT_NONE</AbilityType>
+      <ThermalBehaviour>TB_COLD</ThermalBehaviour>
+      <SuperlodType>SLOD_KEEP_LOWEST</SuperlodType>
+      <ScenarioPopStreamingSlot>SCENARIO_POP_STREAMING_NORMAL</ScenarioPopStreamingSlot>
+      <DefaultSpawningPreference>DSP_NORMAL</DefaultSpawningPreference>
+      <DefaultRemoveRangeMultiplier value="1.00000000"/>
+      <AllowCloseSpawning value="false"/>
+    </Item>
+  </InitDatas>
+</CPedModelInfo__InitDataList>
