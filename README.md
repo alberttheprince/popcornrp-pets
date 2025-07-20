@@ -83,9 +83,20 @@ Bark Bark err Beep boop, this G00D B01 is fully charged, dependable, and ready t
 
 ![robotdog](https://github.com/user-attachments/assets/8acc762f-22ac-447f-9cd5-fe998e23ec59)
 
+
+
+## 8. Giant Cockroach
+
+
+
+Giant tarantulas, zombies, and now giant cockroaches?! I’d say the world is ending, but it’s probably just another chemical leak from Humanes Lab into the water supply…
+
+[Model was originally made by CK on Sketchfab and used under CC Attribution](https://sketchfab.com/3d-models/cockroach-cead55b8aa8643d48d67240bad028592)
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c3bbf8d9-f1df-4677-b4b6-13479599bcff" />
+
+
 Please support our work by checking out our premium pet models [here](https://popcornrp-store.tebex.io/).
-
-
 
 
 # How do I add a pet to keep-companion?
