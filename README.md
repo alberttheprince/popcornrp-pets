@@ -85,7 +85,7 @@ Bark Bark err Beep boop, this G00D B01 is fully charged, dependable, and ready t
 
 
 
-## 8. Giant Cockroach
+## 9. Giant Cockroach
 
 
 
