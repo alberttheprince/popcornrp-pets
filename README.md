@@ -9,6 +9,10 @@ Add this to your server files and server config and ensure it, or move the subfo
 
 Still trying to figure out how to stream add-on peds? You can use this folder and fxmanifest.lua file to do so! Just follow the example with the chow chow/other peds added here. 
 
+Developed a script that gives unique features when used alongside Popcorn RP pets? Let us know and we'll add you to the list:
+
+- Battle Buddies (train, capture, and battle pets from Popcorn RP Pets!) [HERE](https://hoff.tebex.io/package/battlebuddies)
+
 # Current List of included animal peds:
 
 ## 1. Chow Chow
